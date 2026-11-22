@@ -1,0 +1,16 @@
+# Local trading data and generated files
+/data/
+/logs/
+/.venv/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+*.jsonl
+.env*
+/backups/
+*.zip
+*.log
+*.pem
+*.key
+flex*.xml
